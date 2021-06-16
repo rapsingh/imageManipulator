@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 
 """
-Stanford CS106AP SimpleImage
-
-Written by Nick Parlante, Sonja Johnson-Yu, and Nick Bowman.
- -7/2019  version, has file reading, pix, foreach, hidden get/setpix
 
 SimpleImage Features:
 Create image:
