@@ -1,2 +1,2 @@
 # imageManipulator
-In this programs, we use the python pillow library to manipulate images. This program can make grey-scale images, mirror images and even change the background of images which is known as green screening. This project is part of a course Stanford University CS106A python "code in place 2021" which I took in spring 2021. The journey was an enlightening one as I learned a ton of stuff.
+In this programs, we use the python pillow library to manipulate images. This program can make grey-scale images, mirror images and even change the background of images which is known as green screening.
